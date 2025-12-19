@@ -1,0 +1,16 @@
+Spaces found:
+ID: communaute, Name: Espace Communautaire
+ID: espace-media, Name: Espace Média
+ID: studio-creatif, Name: Studio Créatif
+ID: open-zone, Name: Open Zone
+ID: kiosque-4, Name: Kiosque Gourmand N°4
+ID: container-3, Name: Container Pro N°3
+ID: green-room, Name: Green Room
+ID: espace-beaute, Name: Espace Beauté & Bien-être
+ID: salle-focus, Name: Salle Focus 
+ID: kiosque-1, Name: Kiosque Gourmand N°1
+ID: container-1, Name: Container Pro N°1
+ID: container-2, Name: Container Pro N°2
+ID: kiosque-2, Name: Kiosque Gourmand N°2
+ID: kiosque-5, Name: Kiosque Gourmand N°5
+ID: kiosque-3, Name: Kiosque Gourmand N°3
