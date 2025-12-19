@@ -18,10 +18,7 @@
       ]
     }
   ],
-  "rewrites": [
-    {
-      "source": "/(?!galerie)(.*)",
-      "destination": "/index.html"
-    }
+  "rewrites": [ 
+    { "source": "/:path*", "destination": "/index.html" } 
   ]
 }
